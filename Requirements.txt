@@ -1,6 +1,9 @@
 
 pandas
+<<<<<<< HEAD
 openpyxl
+=======
+>>>>>>> 96accbe (FOLDER Structure)
 numpy
 packaging
 scikit-learn
