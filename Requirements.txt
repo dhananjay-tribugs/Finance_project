@@ -1,8 +1,14 @@
 
 pandas
 numpy
+<<<<<<< HEAD
 scikit-learn==1.2.0
 scipy==1.9.3
+=======
+packaging
+scikit-learn
+scipy
+>>>>>>> 96accbe (FOLDER Structure)
 seaborn
 pandas_profiling
 matplotlib
