@@ -1,11 +1,9 @@
 
 pandas
-mysql-connector-python==8.0.31
-numpy==1.23.5
-packaging==22.0
-Pillow==9.3.0
-scikit-learn==1.2.0
-scipy==1.9.3
+numpy
+packaging
+scikit-learn
+scipy
 seaborn
 pandas_profiling
 matplotlib

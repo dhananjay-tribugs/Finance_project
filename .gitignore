@@ -1,3 +1,6 @@
 finance1
 *.xlsx
 *.csv
+data
+env
+.env
