@@ -1,0 +1,11 @@
+
+pandas
+openpyxl
+numpy
+packaging
+scikit-learn
+scipy
+seaborn
+pandas_profiling
+matplotlib
+ipywidgets
