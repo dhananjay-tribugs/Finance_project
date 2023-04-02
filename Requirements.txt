@@ -1,9 +1,13 @@
 
 pandas
 <<<<<<< HEAD
+<<<<<<< HEAD
 openpyxl
 =======
 >>>>>>> 96accbe (FOLDER Structure)
+=======
+openpyxl
+>>>>>>> f7a0ac6 (eda requirements added)
 numpy
 packaging
 scikit-learn
